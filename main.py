@@ -15,7 +15,7 @@ def main():
     global globalEmail
     global globalPassword
 
-    print '                       \n \n \n \n \n \n          '
+    print('                       \n \n \n \n \n \n          '
     print '                    ______ ____  _    _ _______   '
     print '                   |  ____|  _ \| |  | |__   __|  '
     print '                   | |__  | |_) | |__| |  | |     '
